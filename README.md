@@ -24,6 +24,18 @@ Future features:
 * Livestreaming
 * Phone app
 
+### Specifications
+The website will use:
+* HTML
+* CSS
+* PHP
+* JavaScript
+
+It will run on an ubuntu server, apache2 web server, and use MySQL.
+
+### Security
+Please review the security tab for reporting vulnerabilities. This section will also be filled out with current, upcoming, and old versions along with their security fixes and reported issues. If you decide to fork, clone, or use any part of this site, security is **AS IS, NOT GUARANTEED, AND HAS NO WARRANTY.**
+
 ### Contact and socials
 You can contact me in various ways:
 
