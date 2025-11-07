@@ -7,22 +7,23 @@ The purpose for this website is, as the description suggests, is to have a video
 The features I would like to see is a community orientated type of platform, sort of like YouTube in some regards. 
 
 Must need: 
-* Basic login/logout and registration system
-    * Maybe use social auths as well
+- [ ] Basic login/logout and registration system
+    - [ ] Maybe use social auths as well
 
 
-* Video uploading
-    * Titles
-    * Descriptions
-    * Tagging system (possibly a later project)
-* Video commenting
+- [ ] Video uploading
+    
+    - [ ] Titles
+    - [ ] Descriptions
+    - [ ] Tagging system (possibly a later project)
+- [ ] Video commenting
 
 
 Future features:
 
-* Shorts system
-* Livestreaming
-* Phone app
+- [ ] Shorts system
+- [ ] Livestreaming
+- [ ] Phone app
 
 ### Specifications
 The website will use:
@@ -34,7 +35,7 @@ The website will use:
 It will run on an ubuntu server, apache2 web server, and use MySQL.
 
 ### Security
-Please review the security tab for reporting vulnerabilities. This section will also be filled out with current, upcoming, and old versions along with their security fixes and reported issues. If you decide to fork, clone, or use any part of this site, security is **AS IS, NOT GUARANTEED, AND HAS NO WARRANTY.**
+Please review the security tab for reporting vulnerabilities. This section will also be filled out with current, upcoming, and old versions along with their security fixes and reported issues. If you decide to fork, clone, or use any part of this site, security is **AS IS, NOT GUARANTEED, AND HAS NO WARRANTY**
 
 ### Contact and socials
 You can contact me in various ways:
